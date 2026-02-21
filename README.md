@@ -1,0 +1,1 @@
+This code provides an export for the Tolan et al. dataset. It is a simple addition to their own code (https://gee-community-catalog.org/projects/meta_trees/). Limit the export area using an area drawn in Google Earth Engine and labeled "geometry"
