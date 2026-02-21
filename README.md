@@ -1,5 +1,6 @@
 ## citations/
 **merge-ris.py**: Merges multiple .ris files into a combined file for use in Covidence.
+
 **parse_citations.py**: Parses citations from a text (txt) file exported from journal publishers. The export is to a CSV and includes article title, authors, journal, volume, issue, and DOI.
 
 
