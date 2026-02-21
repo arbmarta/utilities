@@ -8,3 +8,5 @@
 **v2_boto3_explorer.py**: This code helps you explore the forests/v1 directory that houses the version 1 canopy height model dataset from Meta and WRI (Tolan et al., 2024).
 
 **v2_boto3_explorer.py**: This code helps you explore the forests/v2 directory that houses the version 2 canopy height model dataset from Meta and WRI (Tolan et al., 2024).
+
+## heat_mapping/
